@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FlowNetwork", "FlowNetwork\FlowNetwork.vcxproj", "{07EC3F13-2B33-4298-8E2A-BECA2B47168C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07EC3F13-2B33-4298-8E2A-BECA2B47168C}.Debug|x64.ActiveCfg = Debug|x64
+		{07EC3F13-2B33-4298-8E2A-BECA2B47168C}.Debug|x64.Build.0 = Debug|x64
+		{07EC3F13-2B33-4298-8E2A-BECA2B47168C}.Debug|x86.ActiveCfg = Debug|Win32
+		{07EC3F13-2B33-4298-8E2A-BECA2B47168C}.Debug|x86.Build.0 = Debug|Win32
+		{07EC3F13-2B33-4298-8E2A-BECA2B47168C}.Release|x64.ActiveCfg = Release|x64
+		{07EC3F13-2B33-4298-8E2A-BECA2B47168C}.Release|x64.Build.0 = Release|x64
+		{07EC3F13-2B33-4298-8E2A-BECA2B47168C}.Release|x86.ActiveCfg = Release|Win32
+		{07EC3F13-2B33-4298-8E2A-BECA2B47168C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1FB5136-D692-4299-993A-0CD233E7AA2D}
+	EndGlobalSection
+EndGlobal

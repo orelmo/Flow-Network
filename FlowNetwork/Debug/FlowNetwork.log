@@ -1,0 +1,12 @@
+﻿  Edge.cpp
+  FordFulkerson.cpp
+  Graph.cpp
+C:\Users\or-el\OneDrive\שולחן העבודה\Orel\לימודים\שנה ב\FlowNetwork\FlowNetwork\Graph.cpp(429,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  HeapNode.cpp
+  List.cpp
+  ListNode.cpp
+  Main.cpp
+  MaxHeap.cpp
+  Queue.cpp
+  Generating Code...
+  FlowNetwork.vcxproj -> C:\Users\or-el\OneDrive\שולחן העבודה\Orel\לימודים\שנה ב\FlowNetwork\Debug\FlowNetwork.exe
