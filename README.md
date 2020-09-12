@@ -6,15 +6,15 @@ to destination vertex in Flow Network: BFS method, Greedy method.
 
 Operation:
 The main function gets a text file name that includes the following parameters:
-{num of vertexes}
-<num of edges>
-<source vertex>
-<destination vertex>
-<trio of: v-u-capacity>
+num of vertexes
+num of edges
+source vertex
+destination vertex
+trio of: v-u-capacity
 .
 .
 .
-<trio of: v-u-capacity>
+trio of: v-u-capacity
 #num of edges trios.
 
 The output is:
