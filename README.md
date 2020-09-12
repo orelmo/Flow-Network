@@ -26,11 +26,20 @@ trio of: v-u-capacity
 #num of edges trios.
 
 The output is:
+
 BFS Method:
+
 Max flow
+
 Min cut
+
 Number of iterations
+
 Greedy Method:
+
 Max flow
+
 Min Cut
+
 Number of iterations
+
